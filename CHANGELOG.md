@@ -2,6 +2,18 @@
 
 All changes of ParcelSync will be be documented in this document.
 
+## v1.3.0-alpha - March 19, 20266
+
+### Added in v1.3.0-alpha
+
+- Approval of Authorized Person &rightarrow; every registered person is not going to be subject for approval before officially listed as approved. The property manager can either approve or disapprove.
+
+### Fixes in v1.3.0-alpha
+
+- The images of Authorized Person is now viewable.
+- Notifications for Authorized Persons are now only allowed for those who are approved
+- The modified forms for registering authorized persons is fixed.
+
 ## v1.2.0-alpha - March 17, 2026
 
 ### Added in v1.2.0-alpha
