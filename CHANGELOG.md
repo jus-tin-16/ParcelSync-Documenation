@@ -2,6 +2,29 @@
 
 All changes of ParcelSync will be be documented in this document.
 
+## v1.4.0-alpha - March 23, 2026
+
+### Changes in v1.4.0
+
+- Security Guards sheet restructured into account directory.
+- Personal details separated from login data
+
+### Added in v1.4.0
+
+- Security Guard Details sheet stores personal info referenced by guardAccountID
+
+- activeGuard field in Security Guards references active guard on shift that links account to personal details
+
+- Change Account view to allow shift handover between guards updates activeGuard reference only
+
+- Security Guard Details form view for adding/editing personal details and separate from account management
+
+- Security Guard Account form view for registering building email accounts
+
+### Fixes in v1.4.0
+
+- Guard identity now properly separated allowing multi-guard but single account
+
 ## v1.3.0-alpha - March 19, 20266
 
 ### Added in v1.3.0-alpha
