@@ -11,7 +11,8 @@
 ### Data Sources: List the Google Sheets and Google Forms used
 
 - `Admins`: The manager of the condominium
-- `Security Guards`: Reception who handles incoming deliveries
+- `Security Guards Details`: Personalized Information about the Security Guards designated to the right building
+- `Security Guards`: This is where the property manager will register a single email account to be use by the security guard.
 - `Buildings`: The building owned or handled by the admin
 - `Tenants`: Occupants of the units inside the condominium
 - `Authorized Persons`: Helper to claim the packages of official tenants
