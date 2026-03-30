@@ -9,7 +9,7 @@
 
 ## 1. Executive Summary
 
-The TSI/Bedoo GMS is a mobile-first logistics and security tool designed to streamline package handling and visitor registration. It replaces manual logbooks with digital tracking, ensuring real-time data accuracy and automated tenant notifications.
+The ParcelSync is a mobile-first logistics and security tool designed to streamline package handling and visitor registration. It replaces manual logbooks with digital tracking, ensuring real-time data accuracy and automated tenant notifications.
 
 ## 2. Problem Statement
 
