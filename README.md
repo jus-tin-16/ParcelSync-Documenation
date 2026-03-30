@@ -2,9 +2,9 @@
 
 ## ParcelSync: Delivery Management System
 
-**Version:** v1.5.0-alpha
-**AppSheet Build:** 1.000253
-**Date:** March 25, 2026
+**Version:** v1.6.0-alpha
+**AppSheet Build:** 1.000259
+**Date:** March 30, 2026
 **Maintainer:** Justin Anthony A. Aleta
 
 ## 1. Executive Summary
@@ -60,6 +60,26 @@ Digital tracking system with:
   2. Google Form opens with `TenantID` pre-filled.
   3. Tenant submits Guest Name/Photo.
   4. AppSheet bot syncs response to `Authorized Persons` table.
+
+### D. Notification Reminder
+
+- **Workflow:** A notification will be sent to the owner and authorized persons reminding to claim the parcel for two days. Afterwards on day 3, it will be mark for return.
+- **Technology:** Google AppSheet bots
+
+### E. Arhciving Mechanism
+
+- **Workflow:** After a month of storing delivery logs, the logs will be transferred to an archive sheet. Then pictures will be moved to trash. after 30 days, it will be permanently deleted.
+- **Technology:** Google AppSheet and Google AppScript functions
+
+### F. Arhciving Mechanism
+
+- **Workflow:** After a month of storing delivery logs, the logs will be transferred to an archive sheet. Then pictures will be moved to trash. after 30 days, it will be permanently deleted.
+- **Technology:** Google AppSheet and Google AppScript functions
+
+### G. Weekly Report
+
+- **Workflow:** Every after week, there is a report which will be sent to the property manager containing information about the delivery logs in the Building
+- **Technology:** Google AppSheet
 
 ## 4. Technical Architecture
 

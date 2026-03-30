@@ -1,7 +1,7 @@
 # Technical Documentation
 
-**Version:** 1.000185 (MVP)
-**Date:** March 10, 2026
+**Version:** 1.000259 (MVP)
+**Date:** March 30, 2026
 **Maintainer:** Justin Anthony A. Aleta
 
 **Target**: Future AppSheet developers or IT maintenance staff.
@@ -17,6 +17,7 @@
 - `Authorized Persons`: Helper to claim the packages of official tenants
 - `Delivery logs`: The list of deliveries that goes to the condominium
 - `Incoming Authorized Persons`: Table served as fetching necessary information of authorized persons
+- `Archive Delivery Logs`: The archive sheet of the delivery logs
 
 ### Table Relationships
 
@@ -30,6 +31,8 @@
 2. Claimed Package Notification
 3. Sending Reminder Notification
 4. Authorized Person Invite bot
+5. Weekly Report Notification
+6. Archiving Notification
 
 ## C. Reference Views
 

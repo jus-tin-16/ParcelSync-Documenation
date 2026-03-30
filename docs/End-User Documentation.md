@@ -1,7 +1,7 @@
 # End-User Documentation
 
-**Version:** 1.000185 (MVP)
-**Date:** March 10, 2026
+**Version:** 1.000259 (MVP)
+**Date:** March 30, 2026
 **Maintainer:** Justin Anthony A. Aleta
 
 **Target**: Condo Admins and Security Guards.
@@ -69,3 +69,11 @@
 4. Return notice
 
    ![Return notice notification](../Images/image-8.png)
+
+5. Delivery Log Weekly Report Notification
+
+   ![Delivery Log Weekly Report](/images/image-10.png)
+
+6. Archiving and Deleting Notification
+
+   ![Archive and Deletion Report](/images/image-11.png)

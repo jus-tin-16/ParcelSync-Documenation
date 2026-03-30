@@ -2,7 +2,11 @@
 
 All changes of ParcelSync will be be documented in this document.
 
-## v11.5.0-alpha - March 25, 2026
+## Changes v1.6.0-alpha - March 30, 2026
+
+- Delivery Logs Weekly Report: A report will be sent to the specific property manager about the delivery logs where he/she is designated building or property.
+
+## v1.5.0-alpha - March 25, 2026
 
 ### Changes in v1.5.0-alpha
 
