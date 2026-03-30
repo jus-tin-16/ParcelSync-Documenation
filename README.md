@@ -77,11 +77,6 @@ Digital tracking system with:
 - **Workflow:** After a month of storing delivery logs, the logs will be transferred to an archive sheet. Then pictures will be moved to trash. after 30 days, it will be permanently deleted.
 - **Technology:** Google AppSheet and Google AppScript functions
 
-### F. Arhciving Mechanism
-
-- **Workflow:** After a month of storing delivery logs, the logs will be transferred to an archive sheet. Then pictures will be moved to trash. after 30 days, it will be permanently deleted.
-- **Technology:** Google AppSheet and Google AppScript functions
-
 ### G. Weekly Report
 
 - **Workflow:** Every after week, there is a report which will be sent to the property manager containing information about the delivery logs in the Building
