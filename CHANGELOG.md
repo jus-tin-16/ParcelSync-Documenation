@@ -2,6 +2,20 @@
 
 All changes of ParcelSync will be be documented in this document.
 
+## v1.7.1-alpha - April 6, 2026
+
+### Fixes in v1.7.1-alpha
+
+- Forms are now allowed via the company dev account
+
+- Fix logic in switching guard account looking up for the registered in same building
+
+- Fixed view designed for active guard email account
+
+### Added in v1.7.1-alpha
+
+- Added email notification when archiving
+
 ## v1.7.0-alpha - March 31, 2026
 
 ### Changes in v1.7.0-alpha
